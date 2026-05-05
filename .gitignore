@@ -1,0 +1,15 @@
+*.bak
+*.wlf
+*.xpr
+*.srcs
+*.cache
+*.mti
+*.hw
+*.mpf
+*.qpf
+*.qsf
+*.runs
+db/
+incremental_db/
+output_files/
+work

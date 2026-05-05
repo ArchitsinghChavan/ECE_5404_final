@@ -1,5 +1,5 @@
-/*
-module multiCycle_KMult
+
+module multiCycle_KM
 #(
 	param in_width = 16
 )
@@ -9,4 +9,7 @@ module multiCycle_KMult
 	input logic clk,
 	output logic [2*in_width:0] C
 )
-*/
+
+
+
+
